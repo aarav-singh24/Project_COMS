@@ -147,3 +147,14 @@ A full RACI (Responsible, Accountable, Consulted, Informed) chart is included in
 - System Design & Integration
 - Testing, Deployment & Monitoring
 
+
+---
+
+## 📬 Feedback & Contribution
+
+Have suggestions, improvements, or feedback? Feel free to [open an issue](https://github.com/project-coms/issues) or submit a pull request!
+
+---
+
+© 2025 Aarav Solutions. All rights reserved.
+
