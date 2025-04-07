@@ -1,4 +1,4 @@
-# 🛒 Customer Order Management System (COMS) Improvement  
+# 🛒 Customer Order Management System Improvement  
 ### 📄 Business Requirements Document (BRD)
 
 This repository contains the Business Requirements Document (BRD) for enhancing the Customer Order Management System of an e-commerce platform. The primary objective is to streamline operations, enhance customer satisfaction, and support future scalability.
@@ -146,8 +146,4 @@ A full RACI (Responsible, Accountable, Consulted, Informed) chart is included in
 - Requirement Gathering
 - System Design & Integration
 - Testing, Deployment & Monitoring
-
----
-
-## 📁 Repository Structure
 
